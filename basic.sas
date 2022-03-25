@@ -1,5 +1,5 @@
-libname test "/home/u61189332/";  
-proc import datafile ="/home/u61189332/housing.csv"
+libname test "/home/u6-----/";  
+proc import datafile ="/home/u6-----/housing.csv"
 	out=test.house
 	dbms=csv replace;
 Run;
