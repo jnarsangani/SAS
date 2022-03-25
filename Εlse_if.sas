@@ -17,7 +17,7 @@ Data emp ;					*creating a dataset it will be created by default in libary/work 
 	james 30 50;
 Run;
 
-libname empdet "/home/u61189332/"; *creating a lib folder;
+libname empdet "/home/u6-----/"; *creating a lib folder;
 
 data test2;
 set empdet.emp;
